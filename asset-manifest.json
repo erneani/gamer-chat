@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gamer-chat/static/css/main.eaa2d99c.chunk.css",
+    "main.js": "/gamer-chat/static/js/main.cfcb1c1f.chunk.js",
+    "main.js.map": "/gamer-chat/static/js/main.cfcb1c1f.chunk.js.map",
+    "runtime-main.js": "/gamer-chat/static/js/runtime-main.725aaec5.js",
+    "runtime-main.js.map": "/gamer-chat/static/js/runtime-main.725aaec5.js.map",
+    "static/js/2.d913dead.chunk.js": "/gamer-chat/static/js/2.d913dead.chunk.js",
+    "static/js/2.d913dead.chunk.js.map": "/gamer-chat/static/js/2.d913dead.chunk.js.map",
+    "index.html": "/gamer-chat/index.html",
+    "precache-manifest.2efa9baea6778288c069a45ff3169b0a.js": "/gamer-chat/precache-manifest.2efa9baea6778288c069a45ff3169b0a.js",
+    "service-worker.js": "/gamer-chat/service-worker.js",
+    "static/css/main.eaa2d99c.chunk.css.map": "/gamer-chat/static/css/main.eaa2d99c.chunk.css.map",
+    "static/js/2.d913dead.chunk.js.LICENSE.txt": "/gamer-chat/static/js/2.d913dead.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.725aaec5.js",
+    "static/js/2.d913dead.chunk.js",
+    "static/css/main.eaa2d99c.chunk.css",
+    "static/js/main.cfcb1c1f.chunk.js"
+  ]
+}
